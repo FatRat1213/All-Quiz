@@ -1,0 +1,23 @@
+@import '~/node_modules/bootstrap/scss/bootstrap.scss';
+@import 'app.scss';
+body{
+    background: $body-bg;
+}
+.header{
+    color: $header;
+    width: 80%;
+    height: 900px;
+}
+.img {
+    border-radius: 50px;
+    width: 500px;
+    height: 500px;
+}
+.text{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+text-align: center;
+}

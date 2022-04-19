@@ -1,0 +1,124 @@
+.header{
+    width: 975px;
+    margin-left: 25%;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 44%;
+    margin-top: 2%;
+}
+.text{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+color: #2E2E2E;
+}
+.article{
+    width: 675px;
+    display:block;
+
+}
+.question{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #5932EA;
+}
+.text-question{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 26px;
+
+color: #000000;
+}
+.button{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #FFFFFF;
+background: #7350F2;
+border-radius: 6px;
+width: 90px;
+height: 40px;
+cursor: pointer;
+}
+.button-redact{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #FFFFFF;
+background: #7350F2;
+border-radius: 6px;
+width: 182px;
+height: 40px;
+cursor: pointer;
+margin-right: 15px;
+}
+.flex{
+    display:block;
+    display:flex;
+    justify-content: flex-end;
+    flex-direction:row;
+    width: 40%;
+    margin-left: 70%;
+}
+.numbers{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    width: 20%;
+    margin-left: 40%;
+}
+.number{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+color: #2E2E2E;
+}
+.number1{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+color:#5932EA;;
+}
+.last-button{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: rgba(89, 50, 234, 0.46);
+border: 1px solid #5932EA;
+box-sizing: border-box;
+border-radius: 20px;
+width: 227px;
+height: 37px;
+margin-left: 38.5%;
+}
+.last-button:hover{
+    background: #5932EA;
+color: #FFFFFF;
+cursor: pointer;
+box-shadow: 0px 2px 16px #5932EA;
+border-radius: 20px;
+}
