@@ -1,0 +1,90 @@
+.header{
+    width: 50%;
+    height: 260px;
+    margin: auto;
+}
+.img{
+    margin-left: 30%;
+    pointer-events: none;
+}
+.main-text{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+color: #2E2E2E;
+}
+.images{
+    display:block;
+    display:flex;
+    flex-direction:row;
+}
+.time{
+    width: 40px;
+    height: 40px;
+    margin-top: 4%;
+    pointer-events: none;
+}
+.time-div{
+    display:flex;
+    flex-direction:row;
+    margin-top: 5%;
+    height: 51px;
+    width: 20%;
+    margin-left: 50%;
+}
+.time-text{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 13px;
+line-height: 20px;
+text-align: center;
+color: #7350F2;
+margin-left: 20%;
+}
+.question-text{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+color: #5932EA;
+}
+.second-text{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 26px;
+color: #5932EA;
+}
+.ansver{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+.input{
+    border-style: none;
+    outline: 0;
+outline-offset: 0;
+border-bottom:2px solid #2E2E2E;
+width: 40%;
+}
+.button{
+    color: aliceblue;
+    background: linear-gradient(101deg, rgba(89, 50, 234, 0.4) 12.69%, rgba(253, 175, 250, 0.4) 101.59%), #7250F2;
+border-radius: 11px;
+width: 106px;
+height: 46px;
+box-shadow: 0px 10px 60px;
+cursor: pointer;
+}
+.aside{
+    margin-top: 10%;
+}
